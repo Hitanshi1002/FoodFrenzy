@@ -24,9 +24,13 @@
 ---
 
 ## 📸 Screenshots
+![Food Frenzy](./screenshots/food-frenzy.png)
 
+![Categories](./screenshots/menu_cuisins.png) 
 
- ![Categories](screenshots/menu_italian_cuisins.png) | ![Cart](screenshots/cart_billing_feedback.png) | ![Menu](screenshots/menu_cuisins.png) 
+![Cart](./screenshots/cart_billing_feedback.png) 
+
+![Menu](./screenshots/menu_cuisins.png) 
 
 ---
 
